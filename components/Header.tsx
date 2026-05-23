@@ -6,7 +6,7 @@ import Image from 'next/image'
 const navLinks = [
   { label: 'Home', href: '#hero' },
   { label: 'BB Gestão', href: '#sobre' },
-  { label: 'Áreas de Atuação', href: '#areas' },
+  // { label: 'Áreas de Atuação', href: '#areas' },
   { label: 'Clientes', href: '#clientes' },
   { label: 'Contato', href: '#contato' },
 ]

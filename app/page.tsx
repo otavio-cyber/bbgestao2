@@ -3,7 +3,7 @@ import Header from '@/components/Header'
 // import CTABanner from '@/components/CTABanner'
 import Sobre from '@/components/Sobre'
 import Clientes from '@/components/Clientes'
-import Areas from '@/components/Areas'
+// import Areas from '@/components/Areas'
 import Contato from '@/components/Contato'
 import WhatsAppFloat from '@/components/WhatsAppFloat'
 
@@ -17,7 +17,7 @@ export default function Home() {
         {/* <Hero /> */}
         {/* <CTABanner /> */}
         <Sobre />
-        <Areas />
+        {/* <Areas /> */}
         <Clientes />
       </main>
       <Contato />
